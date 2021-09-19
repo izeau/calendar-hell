@@ -180,3 +180,11 @@ body {
   content: "";
   display: block;
 }
+
+cite {
+  font-size: 0.8rem;
+}
+
+a {
+  color: inherit;
+}
